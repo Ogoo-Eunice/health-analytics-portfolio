@@ -1,4 +1,5 @@
-*A Data-Driven Review of Hospital Activity and Patient Outcomes* 
+*A Data-Driven Review of Hospital Activity and Patient Outcomes*
+![Hospital Analytics Dashboard](../Hospital_Dashboard_Final.png)
 
 This project explores hospital encounter data to understand patterns in patient admissions, treatment expenditure, readmissions, length of stay, and patient satisfaction.
 
